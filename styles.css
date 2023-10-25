@@ -31,3 +31,7 @@ ul {
     bottom: 0;
     width: 100%;
 }
+button{
+    grid-area: auto;
+    color: #007bff;
+}
